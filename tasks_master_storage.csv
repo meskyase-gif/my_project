@@ -1,0 +1,5 @@
+Task ID,Task Description,Department,Assigned To,Priority,Status,Estimated Hours,Assign Date,Started Date,Completed Date,Reference ID,Verification Status,EOD Report
+TSK-001,SS_STANDARD SELECTIN EQ,IS Application Management Department,Chalew Negash,High,In Progress,5.0,2026-06-29,2026-06-29,-,-,Pending ⏳,the report in progress
+TSK-002,GL,IFB Sales & District Support Division,Alamin Esayas,Medium,In Progress,1.0,2026-06-29,2026-06-29,-,-,Pending ⏳,No report yet.
+TSK-003,Monitoring,HR Operation Dep't,Alemayehu Addisu,Medium,Completed,1.0,2026-06-29,-,2026-06-29,-,Pending ⏳,Directly added as Completed
+TSK-004,TEST LAST,Abdi Nono Branch      (West Addis Ababa District),Habtamu Kassa,Critical,Not Started,2.0,2026-06-29,-,-,-,Pending ⏳,No report yet.
